@@ -42,7 +42,8 @@ controller
 financial
 auditor
 tax
-securityc#
+security
+c#
 ruby
 python
 cms
@@ -77,7 +78,8 @@ microsoft
 mobile
 oracle
 juniper
-avayasunos
+avaya
+sunos
 as400
 mainframe
 bluecoat
