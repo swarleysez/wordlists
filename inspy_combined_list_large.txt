@@ -102,4 +102,6 @@ analyst
 engineer
 risk
 audit
-cyberred teamblue team
+cyber
+red team
+blue team
